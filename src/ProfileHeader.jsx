@@ -45,9 +45,7 @@ function ProfileHeader() {
           />
         )}
         <EditableField label="Location" type="text" placeholder="Enter your location" />
-        <EditableField label="Occupation" type="text" placeholder="Enter your occupation" />
         <EditableField label="Email" type="text" placeholder="Enter your email" />
-        <EditableField label="Availability" type="text" placeholder="Enter your availability" />
         <EditableField label="Phone number" type="text" placeholder="Enter your phone number" />
       </div>
 
